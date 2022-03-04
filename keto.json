@@ -1,19 +1,19 @@
 {
-    "version": "0.8.0-alpha.1",
+    "version": "0.8.0-alpha.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.8.0-alpha.1/keto_0.8.0-alpha.1-windows_32bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v0.8.0-alpha.2/keto_0.8.0-alpha.2-windows_32bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "6410bc680dbb552fb879a8920eee2aae19106a17aa7b897fb5ae6a33ebcba594"
+            "hash": "b46dea95129cb62cf0cff2005e7cbb04a786cdc30194e48250593f8d173e2376"
         },
         "64bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.8.0-alpha.1/keto_0.8.0-alpha.1-windows_64bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v0.8.0-alpha.2/keto_0.8.0-alpha.2-windows_64bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "75ba93d2f782ea5b70de1c9648caf82792128b05889dd974e1d7a8ffc149af98"
+            "hash": "1681a40336ff370ee4d390745f87a0e285001c03ea0acb8ba7c11ed77e8f8a25"
         }
     },
     "homepage": "https://www.ory.sh"
