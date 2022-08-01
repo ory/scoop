@@ -6,14 +6,14 @@
             "bin": [
                 "keto.exe"
             ],
-            "hash": "7bf35c16f14d240fdac5959c59db5c8e828eec92b242c7a6323744456c29d81e"
+            "hash": "96555b07f03fa4c27889869d30e82b0e9546dc29a0d73c78ae798c03d723d1b9"
         },
         "64bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.9.0-alpha.0/keto_0.9.0-alpha.0-windows_sqlite_64bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v0.9.0-alpha.0/keto_0.9.0-alpha.0-windows_64bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "057c4a874dab26a3065065a6eb270e3eb58cd632a2de8c9fb3792d4b7f02d205"
+            "hash": "60677ba2509fcda1fe06364181c2834ed97a58092518eaf52320fe5eeb18f9db"
         }
     },
     "homepage": "https://www.ory.sh"
