@@ -1,19 +1,19 @@
 {
-    "version": "0.1.36",
+    "version": "0.1.37",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/cli/releases/download/v0.1.36/ory_0.1.36-windows_32bit.zip",
+            "url": "https://github.com/ory/cli/releases/download/v0.1.37/ory_0.1.37-windows_32bit.zip",
             "bin": [
                 "ory.exe"
             ],
-            "hash": "c8d7e02a6726a62474947a13be6dc5e720381be98c552953682149bbd09ca3c0"
+            "hash": "1d131a2086a30e6f3918e2da5073ee3274573331ae59cdfbb0a2903ac0cc207e"
         },
         "64bit": {
-            "url": "https://github.com/ory/cli/releases/download/v0.1.36/ory_0.1.36-windows_64bit.zip",
+            "url": "https://github.com/ory/cli/releases/download/v0.1.37/ory_0.1.37-windows_64bit.zip",
             "bin": [
                 "ory.exe"
             ],
-            "hash": "3f29f31e83856282cb056d4f1a8c71d2b6f3424647f2dd8061ea835ab3437a83"
+            "hash": "a85dee999ddf494bc36bd4000da12a63660cac37a46bf10f80ec3141c4a383c6"
         }
     },
     "homepage": "https://www.ory.sh"
