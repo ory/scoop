@@ -1,12 +1,12 @@
 {
-    "version": "0.40.5",
+    "version": "0.40.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ory/oathkeeper/releases/download/v0.40.5/oathkeeper_0.40.5-windows_sqlite_64bit.zip",
+            "url": "https://github.com/ory/oathkeeper/releases/download/v0.40.6/oathkeeper_0.40.6-windows_sqlite_64bit.zip",
             "bin": [
                 "oathkeeper.exe"
             ],
-            "hash": "76c9746b328fe33f603c2ba379f8ac52bc724f29634b6f10e2aefeec8f5aab09"
+            "hash": "4b37151f339eca5f0d41be1d8953c739a40e2bec3f1fa1c38fa194d2fe0f2fd9"
         }
     },
     "homepage": "https://www.ory.sh"
