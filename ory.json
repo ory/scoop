@@ -1,12 +1,12 @@
 {
-    "version": "0.3.2",
+    "version": "0.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ory/cli/releases/download/v0.3.2/ory_0.3.2-windows_sqlite_64bit.zip",
+            "url": "https://github.com/ory/cli/releases/download/v0.3.4/ory_0.3.4-windows_sqlite_64bit.zip",
             "bin": [
                 "ory.exe"
             ],
-            "hash": "d9ebcc7261eea26b4c370d66e731218dcea6d11dad094e9af6c4c76308fe7d21"
+            "hash": "abea4386273f12d63ba4105aeed7f3a05d8db9b94f9168ae754933198117738f"
         }
     },
     "homepage": "https://www.ory.sh"
