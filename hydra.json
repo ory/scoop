@@ -1,12 +1,12 @@
 {
-    "version": "2.2.0",
+    "version": "2.3.0-pre.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ory/hydra/releases/download/v2.2.0/hydra_2.2.0-windows_sqlite_64bit.zip",
+            "url": "https://github.com/ory/hydra/releases/download/v2.3.0-pre.1/hydra_2.3.0-pre.1-windows_sqlite_64bit.zip",
             "bin": [
                 "hydra.exe"
             ],
-            "hash": "88466215b0a3cc6d470200120a6008f46cd463c6fa3bdbc35a5f43b6a0cf1d7f"
+            "hash": "27a2d92289f6c30a5da192ee81e673a3bb3c713bb706b28d876a403f591c40d6"
         }
     },
     "homepage": "https://www.ory.sh"
