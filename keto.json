@@ -1,12 +1,12 @@
 {
-    "version": "0.14.0",
+    "version": "25.4.0-pre.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ory/keto/releases/download/v0.14.0/keto_0.14.0-windows_sqlite_64bit.zip",
+            "url": "https://github.com/ory/keto/releases/download/v25.4.0-pre.0/keto_25.4.0-pre.0-windows_sqlite_64bit.zip",
             "bin": [
                 "keto.exe"
             ],
-            "hash": "09ea4f96759dc83c707851cc3558363fafd0e249119a7f4849fc60eb2c8a4a26"
+            "hash": "5ec556ba91a3357810523a2af6f5d16d331f95032141511aaff43a97d5c3075e"
         }
     },
     "homepage": "https://www.ory.sh"
