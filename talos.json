@@ -1,0 +1,13 @@
+{
+    "version": "0.0.0-alpha.1.pre.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ory/talos/releases/download/v0.0.0-alpha.1.pre.3/talos_0.0.0-alpha.1.pre.3-windows_sqlite_64bit.zip",
+            "bin": [
+                "talos.exe"
+            ],
+            "hash": "db4c4e21a5d66f359542d7aea4550418ec67e03bbf0aaba1e28e90b834d73b7b"
+        }
+    },
+    "homepage": "https://www.ory.sh"
+}
